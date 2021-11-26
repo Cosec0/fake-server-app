@@ -1,0 +1,15 @@
+{
+  "name": "fake-server-app",
+  "version": "1.0.0",
+  "description": "Fake Back-End Server & DataBase Using JSON-SERVER npm package, to be used for my other projects",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaushik Kumar Barman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
